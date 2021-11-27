@@ -1,0 +1,12 @@
+C:\Users\Namanda\Desktop\EAR_CLAIM\EAR_CLAIM\obj\Release\netcoreapp3.1\PubTmp\Out\EAR_CLAIM.exe
+C:\Users\Namanda\Desktop\EAR_CLAIM\EAR_CLAIM\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\Namanda\Desktop\EAR_CLAIM\EAR_CLAIM\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\Namanda\Desktop\EAR_CLAIM\EAR_CLAIM\obj\Release\netcoreapp3.1\PubTmp\Out\EAR_CLAIM.dll
+C:\Users\Namanda\Desktop\EAR_CLAIM\EAR_CLAIM\obj\Release\netcoreapp3.1\PubTmp\Out\EAR_CLAIM.deps.json
+C:\Users\Namanda\Desktop\EAR_CLAIM\EAR_CLAIM\obj\Release\netcoreapp3.1\PubTmp\Out\EAR_CLAIM.runtimeconfig.json
+C:\Users\Namanda\Desktop\EAR_CLAIM\EAR_CLAIM\obj\Release\netcoreapp3.1\PubTmp\Out\EAR_CLAIM.pdb
+C:\Users\Namanda\Desktop\EAR_CLAIM\EAR_CLAIM\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Namanda\Desktop\EAR_CLAIM\EAR_CLAIM\obj\Release\netcoreapp3.1\PubTmp\Out\RestSharp.dll
+C:\Users\Namanda\Desktop\EAR_CLAIM\EAR_CLAIM\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Namanda\Desktop\EAR_CLAIM\EAR_CLAIM\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Namanda\Desktop\EAR_CLAIM\EAR_CLAIM\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
